@@ -334,7 +334,7 @@
 			      },
 			      error: function() {
 			      	sLoader.fadeOut(); 
-			      	$('#message-warning').html("Alguma coisa deu errado. Por favor, tente novamente.");
+			      	$('#message-warning').html("Algo deu errado. Por favor, tente novamente.");
 			         $('#message-warning').fadeIn();
 			      }
 		      });    		
