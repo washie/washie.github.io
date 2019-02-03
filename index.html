@@ -898,50 +898,104 @@
    		</div> <!-- end twelve -->
    	</div> <!-- end portfolio-content -->   	
 
-   </section>  <!-- end portfolio -->
+	</section>  <!-- end portfolio -->
 
-   <!-- contact
-   ================================================== -->
-   <section id="contact">
+	<!-- contact
+	================================================== -->
+	<section id="contact">
 
-      <div class="overlay"></div>
+		<div class="overlay"></div>
 
 		<div class="row narrow section-intro with-bottom-sep animate-this">
-   		<div class="col-twelve">
-   			<h3>Contatos</h3>
-   			<h1>Quer saber mais?</h1>
-   		</div> 
-   	</div> <!-- end section-intro -->
+			<div class="col-twelve">
+				<h3>Contatos</h3>
+				<h1>Quer saber mais?</h1>
+			</div> 
+	   	</div> <!-- end section-intro -->
 
-   	<div class="row contact-content"> 
+	   	<div class="row contact-content"> 
+   	
+			<div class="col-seven tab-full animate-this">
 
-         <div class="col-four tab-full contact-info end animate-this">
+				<h5>Nos mande uma mensagem</h5>
 
-         	<h5>Informações para Contato</h5>
+				<!-- form -->
+				<form name="contactForm" id="contactForm" method="post">     			
 
-         	<div class="cinfo">
-	   			<!--<h6>Where to Find Us</h6>-->
-	   			<p>
-	            </p>
-	   		</div> <!-- end cinfo -->
+					<div class="form-field">
+						<input name="contactName" type="text" id="contactName" placeholder="Nome" value="" minlength="2" required="">
+					</div>
 
-	   		<div class="cinfo">
-	   			<h6>Mande um e-mail:</h6>
-	   			<p>
-	   				<a href="mailto:washie@gmail.com">washie@gmail.com</a>
-				</p>
-	   		</div> <!-- end cinfo -->
+					<div class="row">
+						<div class="col-six tab-full">
+							<div class="form-field">
+								<input name="contactEmail" type="email" id="contactEmail" placeholder="e-mail" value="" required="">
+							</div>		      			   
+						</div>
+						<div class="col-six tab-full">	            
+							<div class="form-field">
+								<input name="contactSubject" type="text" id="contactSubject" placeholder="Assunto" value="">
+							</div>		     				   
+						</div>
+					</div>
+                                         
+					<div class="form-field">
+						<textarea name="contactMessage" id="contactMessage" placeholder="Mensagem" rows="10" cols="50" required=""></textarea>
+					</div> 
 
-	   		<div class="cinfo">
-	   			<h6>Nosso Celular/WhatsApp</h6>
-	   			<p>
-	   				<a href="tel:11984655700">(11)984.655.700</a>
-				</p>
-	   		</div>
+					<div class="form-field">
+						<button class="submitform">Submit</button>
 
-         </div> <!-- end cinfo --> 
+						<div id="submit-loader">
+							<div class="text-loader">Enviando...</div>                             
+								<div class="s-loader">
+									<div class="bounce1"></div>
+									<div class="bounce2"></div>
+									<div class="bounce3"></div>
+								</div>
+							</div>
+						</div>
 
-   	</div> <!-- end row contact-content -->
+				</form> <!-- end form -->
+
+		 		<!-- contact-warning -->
+				<div id="message-warning"></div> 
+
+				<!-- contact-success -->
+				<div id="message-success">
+					<i class="fa fa-check"></i>Sua mensagem foi enviada. Obrigado.<br>
+				</div>
+      		
+			</div> <!-- end col-seven --> 
+
+         	<div class="col-four tab-full contact-info end animate-this">
+
+				<h5>Informações para Contato</h5>
+
+         		<div class="cinfo">
+	   				<!--<h6>Onde Estamos:</h6>-->
+		   			<p>
+		   				<!-- endereço do estudio, quando tiver... hehe! -->
+	    	        </p>
+	   			</div> <!-- end cinfo -->
+
+				<div class="cinfo">
+					<h6>Mande um e-mail:</h6>
+					<p>
+						<a href="mailto:washie@gmail.com">washie@gmail.com</a>
+					</p>
+				</div> <!-- end cinfo -->
+
+				<div class="cinfo">
+					<h6>Nosso Celular/WhatsApp</h6>
+					<p>
+						<a href="tel:11984655700">(11)984.655.700</a>
+					</p>
+				</div> <!-- end cinfo --> 
+				
+			</div> <!-- end col-four -->
+
+		</div> <!-- end row contact-content -->
 		
 	</section> <!-- end contact -->
 
