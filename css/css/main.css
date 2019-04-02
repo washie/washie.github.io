@@ -2004,7 +2004,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
  *
  * ------------------------------------------------------------------- */
 #portfolio {
-  background: #FFFFFF;
+  background: #000000;
   min-height: 800px;
   position: relative;
   padding: 0;
@@ -2023,6 +2023,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   color: rgba(242, 242, 242, 0.4);
 }
 #portfolio .portfolio-content {
+  background: #000000;
   margin-top: -22.2rem;
 }
 #portfolio .bricks-wrapper:before, 
@@ -2047,6 +2048,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
  * masonry entries - (_layout.css) 
  * ------------------------------------------------------------------- */
 .bricks-wrapper .item-wrap {
+  background: #000000
   position: relative;
   overflow: hidden;
 }
