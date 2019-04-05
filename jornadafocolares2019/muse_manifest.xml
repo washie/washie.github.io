@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x,2x" timestamp="1554434910940">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x,2x" timestamp="1554467452366">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4265357641" ref="index"/>
-    <file name="nomq_index.css" crc="465060308" ref="index"/>
+    <file name="index.css" crc="518322045" ref="index"/>
+    <file name="nomq_index.css" crc="4102579426" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold.woff" crc="3827339236"/>
@@ -22,17 +22,19 @@
     <file name="museconfig.js" crc="310584261" ref="index"/>
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
   </folder>
   <folder name="images">
     <file name="bg.jpg" crc="321026360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="bg320x107.jpg" crc="4119842921" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="mapa.jpg" crc="4200795982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg620x207.jpg" crc="480291039" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="307738950" seo="true" mt="1554434888747" redirect="true"/>
+  <file name="index.html" crc="313241283" seo="true" mt="1554467425440" redirect="true"/>
 </manifest>

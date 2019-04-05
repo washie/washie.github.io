@@ -9,7 +9,10 @@
       <image:loc>http://washie.com.br/jornadafocolares2019/images/bg.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://washie.com.br/jornadafocolares2019/images/bg320x107.jpg</image:loc>
+      <image:loc>http://washie.com.br/jornadafocolares2019/images/mapa.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://washie.com.br/jornadafocolares2019/images/bg620x207.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
