@@ -1,33 +1,43 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x" timestamp="1554419226270">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x" timestamp="1554432931423">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4068760805" ref="index"/>
+    <file name="index.css" crc="325198086" ref="index"/>
+    <file name="nomq_index.css" crc="3910750119" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="notosans-bold.woff" crc="3827339236"/>
+    <file name="notosans-bold.eot" crc="380032092"/>
+    <file name="notosans-bold.svg" crc="4071638331"/>
+    <file name="notosans-extrabold.woff" crc="292429069"/>
+    <file name="notosans-extrabold.eot" crc="379632089"/>
+    <file name="notosans-extrabold.svg" crc="4231946793"/>
+    <file name="notosans-regular.woff" crc="3949416050"/>
+    <file name="notosans-regular.eot" crc="105691428"/>
+    <file name="notosans-regular.svg" crc="3982725927"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
   </folder>
   <folder name="images">
     <file name="bg.jpg" crc="321026360" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="u120-7.png" crc="499686448" ref="index"/>
-    <file name="u153-6.png" crc="4104364982" ref="index"/>
-    <file name="u166-4.png" crc="4181678164" ref="index"/>
-    <file name="u169-4.png" crc="123647940" ref="index"/>
-    <file name="u160-4.png" crc="3822321626" ref="index"/>
-    <file name="mapa.jpg" crc="4200795982" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u163-8.png" crc="386251063" ref="index"/>
-    <file name="u172-8.png" crc="4077651421" ref="index"/>
+    <file name="mapa.jpg" crc="4200795982" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg320x107.jpg" crc="4119842921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u179.png" crc="152267386" ref="index"/>
-    <file name="u179-r.png" crc="152267386" ref="index"/>
-    <file name="u243-4.png" crc="4071293947" ref="index"/>
   </folder>
-  <file name="index.html" crc="3997762019" seo="true" mt="1554419199997" redirect="true"/>
+  <file name="index.html" crc="517464658" seo="true" mt="1554432446845" redirect="true"/>
 </manifest>
