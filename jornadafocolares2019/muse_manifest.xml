@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x" timestamp="1554432931423">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/jornadafocolares2019" resolutions="1x" timestamp="1554433212074">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="325198086" ref="index"/>
-    <file name="nomq_index.css" crc="3910750119" ref="index"/>
+    <file name="index.css" crc="338152884" ref="index"/>
+    <file name="nomq_index.css" crc="4240321181" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="notosans-bold.woff" crc="3827339236"/>
@@ -39,5 +39,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="517464658" seo="true" mt="1554432446845" redirect="true"/>
+  <file name="index.html" crc="309381704" seo="true" mt="1554433188219" redirect="true"/>
 </manifest>
