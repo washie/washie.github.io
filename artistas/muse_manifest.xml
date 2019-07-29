@@ -1,0 +1,52 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="washie.com.br/artistas" resolutions="1x" timestamp="1564442099080">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3771172533" ref="index"/>
+    <file name="nomq_index.css" crc="4113153133" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="antennacond-bold.woff" crc="153394271"/>
+    <file name="antennacond-bold.eot" crc="3788214998"/>
+    <file name="antennacond-bold.svg" crc="4101008010"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="grafismo-crop-u222.jpg" crc="4109327761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted-svg-531735x265.svg" crc="4292560454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 531735x265_poster_.png" crc="4242198359" ref="index"/>
+    <file name="pasted-svg-492897x66.svg" crc="3989431489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 492897x66_poster_.png" crc="3852908060" ref="index"/>
+    <file name="pasted-svg-327381x39.svg" crc="38017789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 327381x39_poster_.png" crc="266744299" ref="index"/>
+    <file name="grafismo-crop-u2222.jpg" crc="4258386322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafismo-crop-u2223.jpg" crc="3826781346" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="6845058" seo="true" mt="1564440576818" redirect="true"/>
+</manifest>
